@@ -529,7 +529,7 @@ a.button {
 }
 a.button small {
   display: block;
-  font-size: 11px;
+  font-size: 14px;
 }
 header a.button {
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
@@ -540,10 +540,12 @@ header a.button {
   margin-bottom: 5px; */
 }
 header .button-centerer {
-  /*! text-align: center; */
-  /*! padding: auto; */
+  width: 100%;
   margin-bottom: 10px !important;
-  margin-top: 12vh;
+  margin-top: 30vh;
+  /*! text-align: center; */
+  display: fixed;
+  margin-left: 38%;
 }
 aside a.button {
   display: block;
