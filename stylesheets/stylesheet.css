@@ -532,10 +532,18 @@ a.button small {
   font-size: 11px;
 }
 header a.button {
-  position: absolute;
-  top: 0;
-  right: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  position: absolute;
+  text-align: center;
+  display: block;
+  /* margin-left: 37%;
+  margin-bottom: 5px; */
+}
+header .button-centerer {
+  /*! text-align: center; */
+  /*! padding: auto; */
+  margin-bottom: 10px !important;
+  margin-top: 12vh;
 }
 aside a.button {
   display: block;
