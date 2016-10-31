@@ -492,6 +492,20 @@ header .video-container {
   overflow: hidden;
 }
 
+header .logo-cointainer {
+  background-image: url(../images/Deliveryman_small.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 133px;
+  width: 200px;
+}
+
+header .slogan {
+  text-align: center;
+  
+}
+
 .inner {
   position: relative;
   width: 940px;
