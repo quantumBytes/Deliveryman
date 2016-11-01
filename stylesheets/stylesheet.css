@@ -507,6 +507,12 @@ header span {
   color: #65C8FD;
 }
 
+#main-content .user-case {
+  position: relative;
+  height: 300px;
+  overflow: hidden;
+}
+
 .inner {
   position: relative;
   width: 940px;
