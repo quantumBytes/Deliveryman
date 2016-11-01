@@ -449,7 +449,7 @@ a:hover {
 
 header {
   height: 70vh;
-  padding-top: 40px;
+  padding-top: 5vh;
   /*padding-bottom: 60vh;*/
   font-family: 'Fira Sans', sans-serif, 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
@@ -561,7 +561,7 @@ a.button small {
   font-size: 14px;
 }
 header a.button {
-  background: transparent url(../images/play-button3.png) 0 0 no-repeat;
+  background: transparent url(../images/play-button2.png) 0 0 no-repeat;
   position: absolute;
   text-align: center;
   display: block;
