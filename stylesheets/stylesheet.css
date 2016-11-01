@@ -447,6 +447,16 @@ a:hover {
   color: #2268b2;
 }
 
+#main-content .case-summary {
+  text-align: center;
+  font-family: 'Open Sans Condensed', 'Open Sans', sans-serif;
+  /*font-weight: 400;*/
+  font-size: 1.5em;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: #13406F;
+}
+
 header {
   height: 70vh;
   padding-top: 5vh;
@@ -509,7 +519,7 @@ header span {
 
 #main-content .user-case {
   position: relative;
-  height: 300px;
+  max-height: 300px;
   overflow: hidden;
 }
 
